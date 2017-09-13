@@ -21,4 +21,3 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
-//增加一些无用测试的信息
